@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsZHg3YWNpNG56amxwcWxhOG16aGJlY2tpY2MxbDY1MWMwY3Z1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rC0MiYAuxVLEc/giphy.gif" width="100%" style="border-radius: 15px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsZHg3YWNpNG56amxwcWxhOG16aGJlY2tpY2MxbDY1MWMwY3Z1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rC0MiYAuxVLEc/giphy.gif" width="100%" style="border-radius: 15px">
 </div>
 
 ---
@@ -14,11 +14,15 @@ My passion lies in **Web Development** 🌐, with a focus on languages like **PH
 
 ### GitHub Stats
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naditya206&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naditya206&layout=compact" /> |
-| ------------- | ------------- | ------------- |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naditya206&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Naditya206 github stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naditya206&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naditya206&layout=compact" />
+</div>
 
 ---
-
 
 ### Technology and Languages
 
