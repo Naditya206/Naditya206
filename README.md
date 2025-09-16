@@ -1,6 +1,3 @@
-Berdasarkan data dari foto profil GitHub dan informasi yang Anda berikan, berikut adalah draf README.md yang sudah disesuaikan.
-
-```markdown
 <div align="center">
   <img src="https://media.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif" width="100%" style="border-radius: 15px">
 </div>
@@ -35,4 +32,3 @@ My passion lies in **Web Development** and **Data Science** 🌐, with a focus o
 ### Technology and Languages
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,tailwind,laravel,mysql,react)](https://skillicons.dev)
-```
