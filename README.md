@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/1dMlPP0fybIZy/giphy.gif" width="100%" style="border-radius: 15px">
+  <img src="https://media3.giphy.com/media/JPcmNWh80RM7f74dOn/giphy.gif" width="100%" style="border-radius: 15px">
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 I'm a tech enthusiast who loves coding, leading projects, and currently diving deep into Informatics Engineering.
 
-My passion lies in **Web Development** 🌐, with a focus on **Laravel** Framework. Just on Progress to be Better! 🚀
+My passion lies in **Web Development** 🌐, with a focus on Framework **Laravel**. Just on Progress to be Better! 🚀
 
 ---
 
