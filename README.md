@@ -16,6 +16,7 @@ My passion lies in **Web Development** 🌐, with a focus on Framework **Laravel
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naditya206&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+  |
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naditya206&layout=compact" />
 </div>
 
