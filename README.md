@@ -14,7 +14,7 @@ My passion lies in **Web Development** 🌐, with a focus on languages like **PH
 
 ### GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Naditya206&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Naditya206 github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naditya206&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naditya206&layout=compact" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naditya206&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naditya206&layout=compact" /> |
 | ------------- | ------------- | ------------- |
 
 ---
