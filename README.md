@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/11fcrB0d09xDDG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-fighter-jet-11fcrB0d09xDDG">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif" width="100%" style="border-radius: 15px">
+</div>
 
 ---
 
