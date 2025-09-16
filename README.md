@@ -4,11 +4,11 @@
 
 ---
 
-### Hi everyone 🫡, my name is *Naditya P*
+### Hi everyone 🫡, my name is *Naditya Prastia Andino*
 
 I'm a tech enthusiast who loves coding, leading projects, and currently diving deep into Informatics Engineering.
 
-My passion lies in **Web Development** and **Data Science** 🌐, with a focus on languages like **JavaScript**, **PHP**, and **Python**. Let's build something awesome together! 🚀
+My passion lies in **Web Development** 🌐, with a focus on languages like **PHP**. Just on Progress to be Better! 🚀
 
 ---
 
@@ -19,16 +19,7 @@ My passion lies in **Web Development** and **Data Science** 🌐, with a focus o
 
 ---
 
-### Contact Me
-
-<a href="https://www.instagram.com/naditya.pa/"><img src="./assets/instagram.png" width="40px" alt="Instagram"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:nadityapa.g.52bit@gmail.com"><img src="./assets/gmail.png" width="40px" alt="Email"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nadiyapa-g-52b8222c2/"><img src="./assets/linkedin.png" width="40px" alt="Linkedin"></a>
-
----
 
 ### Technology and Languages
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,tailwind,laravel,mysql,react)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,laravel,mysql)](https://skillicons.dev)
