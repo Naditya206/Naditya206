@@ -6,7 +6,7 @@
 
 ### Hi everyone 🫡, my name is *Naditya Prastia Andino*
 
-I'm a tech enthusiast who loves coding, leading projects, and currently diving deep into Informatics Engineering.
+Hi there! I'm a tech enthusiast who loves coding Laravel, leading projects, and currently diving deep into Informatics Engineering.
 
 My passion lies in **Web Development** 🌐, with a focus on Framework **Laravel**. Just on Progress to be Better! 🚀
 
