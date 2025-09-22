@@ -4,7 +4,7 @@
 
 ---
 
-### Hi everyone 🫡, my name is *Naditya Prastia Andino*
+### Hi everyone 🫡 my name is *Naditya Prastia Andino*
 
 Hi there! I'm a tech enthusiast who loves coding Laravel, leading projects, and currently diving deep into Informatics Engineering.
 
