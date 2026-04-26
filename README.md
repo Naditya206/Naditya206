@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/93QGXKq4uLEgo/giphy.gif" width="100%" style="border-radius: 15px">
-</div>
-
----
 
 ### Hi everyone 🫡 my name is *Naditya Prastia Andino*
 
